@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheed76&layout=compact&theme=dark)](https://github.com/jrmydix)&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheed76&layout=compact&theme=dark)](https://github.com/abdulwaheed76)&nbsp;&nbsp;
 ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulwaheed76&count_private=true&show_icons=true&theme=dark&hide=issues)
 
 </div><br>
