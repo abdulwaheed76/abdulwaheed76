@@ -39,15 +39,6 @@
 </div>
 </p><br>
 <hr>
-<br><h2 align="center">Stats:</h2><br>
-
-<div align="center">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheed76&layout=compact&theme=dark)](https://github.com/abdulwaheed76)&nbsp;&nbsp;
-![Abdul Waheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulwaheed76&count_private=true&show_icons=true&theme=dark&hide=issues)
-
-</div><br>
 
 <br>
 
