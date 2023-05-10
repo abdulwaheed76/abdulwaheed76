@@ -8,8 +8,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/jrmydix"><img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&logo=github&logoColor=fff&labelColor=282828"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/abdulwaheed0776"><img title="Follow on Twitter" src= "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<br><br>
+<!--   <a href="https://twitter.com/abdulwaheed0776"><img title="Follow on Twitter" src= "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<br><br> -->
 </div>
 <hr>
 <br><h2 align="center">Skills:</h2><br>
