@@ -11,8 +11,7 @@
 <!--   <a href="https://twitter.com/abdulwaheed0776"><img title="Follow on Twitter" src= "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <br><br> -->
 </div>
-<hr>
-<br><h2 align="center">Skills:</h2><br>
+<hr><h2 align="center">Skills</h2><br>
 
 <p>
 <div align="center">
