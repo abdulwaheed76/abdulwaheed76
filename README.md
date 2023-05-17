@@ -20,10 +20,11 @@
   <img src="https://img.shields.io/badge/-Bootstrap-860afb?style=for-the-badge&logo=bootstrap&logoColor=860afb&labelColor=282828">
 
 <br><img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=282828)&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-React-5cd9ff?style=for-the-badge&logo=react&logoColor=5cd9ff&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=282828)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&labelColor=282828)&nbsp;&nbsp;&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282828)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=282828)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=282828)&nbsp;&nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=282828)&nbsp;&nbsp;&nbsp;&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=282828)
